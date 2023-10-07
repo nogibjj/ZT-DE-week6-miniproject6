@@ -1,2 +1,7 @@
 # ZT-DE-week6-miniproject6
-Hey!
+
+## Setup
+
+1. Install dependencies:
+```bash
+make init
