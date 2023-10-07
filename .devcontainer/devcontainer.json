@@ -1,0 +1,10 @@
+{
+    "name": "Python MySQL Dev Container",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "forwardPorts": [3306],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    }
+}
