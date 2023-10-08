@@ -12,7 +12,7 @@ make init
 This query is designed to provide insights into the sales performance of authors in the year 2022. Specifically, it lists the top 5 authors by revenue generated from their book sales within that year.
 
 Query breakdown:
-![Alt text](path/to/image.png)
+![Screenshot](Screenshot%20from%202023-10-07%2018-03-21.png)
 
 Components:
 1. Tables Involved:
