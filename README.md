@@ -1,3 +1,4 @@
+[![CI](https://github.com/nogibjj/ZT-DE-week6-miniproject6/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/nogibjj/ZT-DE-week6-miniproject6/actions/workflows/pythonapp.yml)
 # ZT-DE-week6-miniproject6
 
 ## Setup
